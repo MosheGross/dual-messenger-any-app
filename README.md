@@ -10,3 +10,6 @@ Clone any app to Samsung Dual Messenger - No Root Required
 Make sure adb is installed, and your device has USB Debugging enabled.
 
 You might need to enable DUAL Messenger on your device.
+
+## Credits
+This script was inspired by discussions and ideas from [this thread on XDA Developers](https://xdaforums.com/t/add-non-messenger-apps-to-samsung-dual-messenger.3817250/)
